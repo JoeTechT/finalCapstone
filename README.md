@@ -37,38 +37,41 @@ Please use username: admin and password: password
 
 ![alt text] (https://github.com/JoeTechT/finalCapstone/blob/main/readme_img/login_page.png?raw=true)
 
+https://github.com/JoeTechT/finalCapstone/blob/main/readme_img/login_page.png
+
 
 
 You will then be taken to the main menu.
 
-![alt text] (https://github.com/JoeTechT/finalCapstone/blob/main/readme_img/main_menu.png?raw=true)
+![main menu image] (https://github.com/JoeTechT/finalCapstone/assets/images/main_menu.png?raw=true)
 
 The first option is to add a task.
 You start by stating which user this task is for.
 
-![alt text] (https://github.com/JoeTechT/finalCapstone/blob/main/readme_img/add_task.png?raw=true)
+![add a task] (https://github.com/JoeTechT/finalCapstone/assets/images/add_task.png?raw=true)
+
 
 Once the task has been entered you will be taken back to the main menu.
 
 Next you will view your tasks, along with having the chance to mark as complete or edit.
 
-![alt text] (https://github.com/JoeTechT/finalCapstone/blob/main/readme_img/my_task_completed.png?raw=true)
+![select completed] (https://github.com/JoeTechT/finalCapstone/assets/images/my_task_completed.png?raw=true)
 
 Edit task.
 
-![alt text] (https://github.com/JoeTechT/finalCapstone/blob/main/readme_img/edit_task.png?raw=true)
+![edit tasks] (https://github.com/JoeTechT/finalCapstone/assets/images/edit_task.png?raw=true)
 
 You will then return back to the main menu.
 
 next is generate reports, which will give us a detailed list of how many tasks you currently have.
 
-![alt text] (https://github.com/JoeTechT/finalCapstone/blob/main/readme_img/gen_reports.png?raw=true)
+![generates reports] (https://github.com/JoeTechT/finalCapstone/assets/images/gen_reports.png?raw=true)
 
 and finally this is just for the admin. 
 
 You are able to view everything on the system including users and their passwords.
 
-![alt text] (https://github.com/JoeTechT/finalCapstone/blob/main/readme_img/disp_stat.png?raw=true)
+![display statistics] (https://github.com/JoeTechT/finalCapstone/assets/images/disp_stat.png?raw=true)
 
 
 ### <ins>3. Credits.</ins>
